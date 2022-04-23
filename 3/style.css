@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+    background-color: rgb(71, 59, 177);
+}
+
+.q {
+    text-align: center;
+    color: aqua;
+    font-size: 40px;
+}
+
+.e {
+    font-family: 'Lobster', cursive;
+    color: rgb(59, 167, 17);
+    text-align: center;
+}
+
+.r {
+    margin-left: 500px;
+    width: 900px;
+    height: 500px;
+}
+
+.t {
+
+    margin-top: -940px;
+}
+
+.c {
+    color: black;
+
+}
+
+.c:hover {
+    color: azure;
+}
